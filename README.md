@@ -8,6 +8,10 @@ This example is to show different parts of the Git repository and various comman
 
 ## Purpose
 
+As stated above, this is an example.
+
 ## Deployment
+
+This is a simple project, bleh.
 
 ## How To Contribute
