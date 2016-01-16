@@ -15,3 +15,7 @@ As stated above, this is an example.
 This is a simple project, bleh.
 
 ## How To Contribute
+
+### Copyright
+
+Copyright!!
